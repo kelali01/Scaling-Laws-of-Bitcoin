@@ -1,4 +1,4 @@
-# Scaling-Laws-of-Bitcoin
+# Short paper: The Spatiotemporal Scaling Laws of Bitcoin’s Spending Patterns
 
 This repo shows the coding part of Short paper: The Spatiotemporal Scaling Laws of Bitcoin’s Spending Patterns.
 
